@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Geo Calculator/ViewController.swift"
+            timestampString = "579745437.256955"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Geo_Calculator.ViewController.lat1.getter : Swift.Optional&lt;Geo_Calculator.DecimalMinusTextField&gt;"
+                  moduleName = "Geo Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/postmag/Desktop/CIS657Homework3-master/Geo%20Calculator/Geo%20Calculator/ViewController.swift"
+                  timestampString = "579740568.879324"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Geo_Calculator.ViewController.lat1.setter : Swift.Optional&lt;Geo_Calculator.DecimalMinusTextField&gt;"
+                  moduleName = "Geo Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/postmag/Desktop/CIS657Homework3-master/Geo%20Calculator/Geo%20Calculator/ViewController.swift"
+                  timestampString = "579740568.886695"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Geo_Calculator.ViewController.lat1.modify : Swift.Optional&lt;Geo_Calculator.DecimalMinusTextField&gt;"
+                  moduleName = "Geo Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/postmag/Desktop/CIS657Homework3-master/Geo%20Calculator/Geo%20Calculator/ViewController.swift"
+                  timestampString = "579740568.889554"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Geo_Calculator.ViewController.lat1.modify : Swift.Optional&lt;Geo_Calculator.DecimalMinusTextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Geo Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/postmag/Desktop/CIS657Homework3-master/Geo%20Calculator/Geo%20Calculator/ViewController.swift"
+                  timestampString = "579740568.891839"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Geo_Calculator.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Geo_Calculator.ViewController"
+                  moduleName = "Geo Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/postmag/Desktop/CIS657Homework3-master/Geo%20Calculator/Geo%20Calculator/ViewController.swift"
+                  timestampString = "579740568.89384"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "321">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Geo_Calculator.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Geo_Calculator.ViewController&gt;"
+                  moduleName = "Geo Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/postmag/Desktop/CIS657Homework3-master/Geo%20Calculator/Geo%20Calculator/ViewController.swift"
+                  timestampString = "579740568.896001"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "241">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Geo Calculator/MainViewController.swift"
+            timestampString = "580158112.531237"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "MainViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Geo_Calculator.MainViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Geo_Calculator.MainViewController"
+                  moduleName = "Geo Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/postmag/Desktop/CIS657Homework3-master/CIS657-HW3/CIS657Homework3-master/Geo%20Calculator/Geo%20Calculator/MainViewController.swift"
+                  timestampString = "580072839.198488"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Geo_Calculator.MainViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Geo_Calculator.MainViewController"
+                  moduleName = "Geo Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/postmag/Desktop/CIS657Homework3-master/CIS657-HW3/CIS657Homework3-master/Geo%20Calculator/Geo%20Calculator/MainViewController.swift"
+                  timestampString = "580072839.206569"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "217">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Geo_Calculator.MainViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Geo_Calculator.MainViewController&gt;"
+                  moduleName = "Geo Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/postmag/Desktop/CIS657Homework3-master/CIS657-HW3/CIS657Homework3-master/Geo%20Calculator/Geo%20Calculator/MainViewController.swift"
+                  timestampString = "580072839.208987"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Geo_Calculator.MainViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Geo_Calculator.MainViewController&gt;"
+                  moduleName = "Geo Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/postmag/Desktop/CIS657Homework3-master/CIS657-HW3/CIS657Homework3-master/Geo%20Calculator/Geo%20Calculator/MainViewController.swift"
+                  timestampString = "580072839.210302"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "137">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Geo_Calculator.MainViewController.__deallocating_deinit"
+                  moduleName = "Geo Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/postmag/Desktop/CIS657Homework3-master/CIS657-HW3/CIS657Homework3-master/Geo%20Calculator/Geo%20Calculator/MainViewController.swift"
+                  timestampString = "580072839.2115901"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
