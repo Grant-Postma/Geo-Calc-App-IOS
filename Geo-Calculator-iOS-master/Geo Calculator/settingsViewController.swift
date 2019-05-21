@@ -133,16 +133,13 @@ class settingsViewController: UIViewController, UIPickerViewDelegate, UIPickerVi
     @objc
     func tapFunctionDistance(sender:UITapGestureRecognizer) {
         distancePicker.isHidden = !distancePicker.isHidden;
+        bearingPicker.isHidden = true;
     }
     
     @objc
     func tapFunctionBearing(sender:UITapGestureRecognizer) {
-        distancePicker.isHidden = !distancePicker.isHidden;
+        bearingPicker.isHidden = !bearingPicker.isHidden;
+        distancePicker.isHidden = true;
     }
-/*
-    override func viewWillDisappear(_ animated: Bool) {
-        super.viewWillDisappear(animated)
-        settingsDelegate?.updateUnits(distanceUnits: distanceSelection, bearingUnits: bearingSelection)
-    }
- */
+
 }
